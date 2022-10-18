@@ -1,0 +1,8 @@
+com\example\demo\controllers\MemberController.class
+com\example\demo\repositories\MemberRepository.class
+com\example\demo\repositories\ClassRepository.class
+com\example\demo\models\Member.class
+com\example\demo\GlofoxApplication.class
+com\example\demo\controllers\ClassController.class
+com\example\demo\models\Class.class
+com\example\demo\ServletInitializer.class
